@@ -1,0 +1,143 @@
+html,
+body {
+  height: 100%;
+  margin: 0px;
+  width: 100%;
+}
+*,
+*:focus,
+*:hover {
+  outline: none;
+}
+.container1 {
+  width: 30%;
+  height: 750px;
+  float: left;
+  background-color: #2783fe;
+  margin: 0;
+  margin: 1px;
+  text-align: center;
+}
+.container2 {
+  width: 68%;
+  height: 650px;
+  float: right;
+}
+.stars {
+  width: 70%;
+  height: 50px;
+  margin: auto;
+  margin-top: 80px;
+}
+.stars > img {
+  width: 32px;
+  height: 32px;
+}
+.summer {
+  width: 80%;
+  height: 110px;
+  margin: auto;
+  margin-left: 55px;
+}
+.summer > img {
+  width: 128px;
+  height: 128px;
+  margin-left: -30px;
+}
+.summer + p {
+  color: white;
+  font-size: 24px;
+  letter-spacing: -1px;
+}
+.create-project {
+  font-size: 50px;
+  letter-spacing: -2px;
+  font-family: "Graphik 700", Arial, sans-serif;
+  font-weight: bold;
+  line-height: 1em;
+  font-weight: 700;
+  width: 100%;
+  margin-top: 80px;
+  text-align: center;
+}
+.create-project + p {
+  margin-top: -10px;
+  font-family: "Graphik 400", Arial, sans-serif;
+  color: #0c1014;
+  font-size: 20.25px;
+  line-height: 1.5em;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: -1px;
+}
+.form {
+  height: 400px;
+  width: 50%;
+  margin: 70px auto;
+  font-family: "Graphik 400", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.form > label {
+  margin-bottom: 7px;
+}
+.input {
+  border: 1px solid gray;
+  border-radius: 6px;
+  font-family: "proxima-nova";
+  width: 100%;
+  height: 50px;
+  color: #373636;
+  font-size: 16px;
+  line-height: 14px;
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+.input + button {
+  background-color: #10a6dd;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  font-family: "proxima-nova";
+  width: 100%;
+  height: 60px;
+  margin-top: 20px;
+  color: white;
+  font-size: 20px;
+  line-height: 14px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+.bottom {
+  width: 80%;
+  height: 300px;
+  margin: 50px auto;
+  border: 1px solid #2783fe;
+}
+.img {
+  width: 70px;
+  float: left;
+  border-radius: 60px;
+  margin-right: 20px;
+}
+.text {
+  font-size: 18px;
+  color: white;
+  font-family: "Graphik 400", Arial, sans-serif;
+  text-align: left;
+  line-height: 5px;
+}
+.line {
+  height: 150px;
+  width: 8px;
+  background-color: white;
+  float: left;
+  margin-right: 20px;
+}
+.line + p {
+  font-size: 18px;
+  color: white;
+  font-family: "Graphik 400", Arial, sans-serif;
+  text-align: left;
+  margin-top: 50px;
+}
