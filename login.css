@@ -1,0 +1,116 @@
+* {
+  font-family: "Graphik 600", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.container1 {
+  width: 62.5%;
+  height: 650px;
+  float: left;
+  margin: 1px;
+}
+.container2 {
+  width: 34.5%;
+  height: 650px;
+  float: right;
+  background-color: #eaeff8;
+  margin: 0;
+  margin: 1px;
+  text-align: center;
+}
+.container2-text {
+  height: 250px;
+  width: 100%;
+  margin-top: 138px;
+}
+.container2-text > h1 {
+  font-size: 37.75px;
+  font-weight: bold;
+  letter-spacing: -1.57px;
+  line-height: 43px;
+  padding: 0 40px;
+}
+.container2-text > p {
+  font-size: 16px;
+  margin-top: 15px;
+  line-height: 30px;
+}
+.container2-text > button {
+  background-color: #1053eb;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  color: #fff;
+  text-decoration: none;
+  padding: 18px 29px;
+  margin-top: 30px;
+}
+
+.earn-img {
+  width: 108%;
+  height: 40%;
+  margin-left: -40px;
+}
+.icon {
+  height: 150px;
+  width: 120px;
+  margin-left: 40px;
+  margin-top: -50px;
+}
+.form {
+  height: 260px;
+  width: 70%;
+  margin-top: 110px;
+  margin-left: 145px;
+}
+.input {
+  background-color: #f5f7f9;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  font-family: "proxima-nova";
+  width: 100%;
+  height: 60px;
+  margin-top: 20px;
+  color: #373636;
+  font-size: 16px;
+  line-height: 14px;
+  margin-bottom: 5px;
+}
+input + p {
+  color: #00adee;
+  font-size: 15px;
+  float: right;
+  font-weight: bold;
+  cursor: pointer;
+}
+.form-button {
+  background-color: #c0ecfc;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  font-family: "proxima-nova";
+  width: 100%;
+  height: 60px;
+  margin-top: 20px;
+  color: white;
+  font-size: 20px;
+  line-height: 14px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+.create-password {
+  height: 100px;
+  width: 70%;
+  margin-left: 145px;
+  text-align: center;
+  margin-top: 60px;
+  color: #615e5e;
+}
+.para {
+  color: #615e5e;
+  font-size: 100%;
+  font-weight: bold;
+  line-height: 50px;
+}
+.para1 {
+  font-size: 15px;
+  cursor: pointer;
+}
