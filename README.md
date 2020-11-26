@@ -20,25 +20,25 @@
 
 - ### Overview of the Gantt chart software web page how it looks and the other products.
 - ### With help of css and js to fix the company logos at bottom of web page whenever it scrolls down.
-  ![HOME PAGE](https://drive.google.com/file/d/1Xp4MB0x69RaeQzB5d4HgeU68Aemo3MI7/view?usp=sharing)
+  ![HOME PAGE](https://drive.google.com/uc?export=view&id=1Xp4MB0x69RaeQzB5d4HgeU68Aemo3MI7)
 
 ## Feature Page
 
 - ### Overview of the Gantt chart software feature page how it looks and the other services.
 - ### Added services with the help of css and here we will get lots of features
-  ![Feature PAGE](https://drive.google.com/file/d/1HqFHYTrMtDcm-pcJoa3dXxkXEDdED7Ck/view?usp=sharing)
+  ![Feature PAGE](https://drive.google.com/uc?export=view&id=1HqFHYTrMtDcm-pcJoa3dXxkXEDdED7Ck)
 
 ## LogIn & Sign Up Page
 
 - ### Overview of the Gantt chart software login page how it looks and the other services.
 - ### Added login services with the help of css and form element.
-  ![Feature PAGE](https://drive.google.com/file/d/1l74qtEiB-3COcUlr9J3PJXD4SPBWEgDY/view?usp=sharing)
+  ![Feature PAGE](https://drive.google.com/uc?export=view&id=1l74qtEiB-3COcUlr9J3PJXD4SPBWEgDY)
 
 ## TryFree Page
 
 - ### Overview of the Gantt chart software Tryfree page how it looks and the other services.
 - ### Added login services with the help of css and form element and you can create project.
-  ![Feature PAGE](https://drive.google.com/file/d/16O6ol6yakGcIhqSlfSqbDo5hKSrs_0OL/view?usp=sharing)
+  ![Feature PAGE](https://drive.google.com/uc?export=view&id=16O6ol6yakGcIhqSlfSqbDo5hKSrs_0OL)
 
 ---
 
