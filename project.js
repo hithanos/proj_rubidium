@@ -1,9 +1,10 @@
+// this js part mainly for the header part and the logo part
 var header_part = document.querySelector(".nav_container");
 var header_part_heading = document.getElementById("body_container_1_a");
 var header_part_colour = document.querySelector(".nav_container_colour_1");
 var logos = document.querySelector(".logos_info");
 var logos1 = document.querySelector(".logos_info_1");
-// for logo part
+// for logo part just getting the element through the class name
 var logo_1_a = document.querySelector(".one");
 var logo_1_b = document.querySelector(".two");
 var logo_1_c = document.querySelector(".three");
@@ -14,10 +15,12 @@ var down_arrow = document.querySelector(".arrow_1");
 var header_last = document.querySelector("#login");
 var header_last_1 = document.querySelector("#tryfree");
 var header_last_1_div = document.getElementById("header_last_div");
-
+//checkscroll function will check where the page is
 window.addEventListener("scroll", checkscroll);
 var animationDone = false;
 function checkscroll() {
+  //getBoundingClientRect() will give the position of the element in the web page
+  //   and getting the element where in web page
   var coordinates = header_part_heading.getBoundingClientRect();
   var coordinates_1 = header_part.getBoundingClientRect();
   var logos_co = logos.getBoundingClientRect();
@@ -78,17 +81,11 @@ function checkscroll() {
     animationDone = false;
   }
 
+  //   this is foe setting the logo part appear and disappear
   if (logos_co.top < window.innerHeight) {
     logos1.classList.add("logos_info_2");
   }
   if (logos_co.top > window.innerHeight) {
     logos1.classList.remove("logos_info_2");
   }
-}
-
-//for alert part
-var alert1 = document.getElementById("link_progress");
-alert1.addEventListener("onclick", alert2);
-function alert2() {
-  console.log("hi");
 }
